@@ -3,7 +3,7 @@ All kind of tips and tricks around everything
 
 
 <details>
-###<summary>Windows 11</summary>
+<summary>Windows 11</summary>
 
 ### Shortcuts
 
