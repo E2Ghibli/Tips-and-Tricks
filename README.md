@@ -32,7 +32,7 @@ All kind of tips and tricks around everything
 	</details>
 </details>
 <details><summary>Websites</summary>
-	[AlternativeTo](https://alternativeto.net/): Find better alternatives to the products.
+	[AlternativeTo](https://alternativeto.net/) : Find better alternatives to the products.
 	[opensourcealternative.to](https://www.opensourcealternative.to/): Find open source alternatives.
 	[Trello](https://trello.com/): Project management tool.
 	[Notion](https://www.notion.so/): Note taking and project management tool.
