@@ -5,18 +5,25 @@ All kind of tips and tricks around everything
 <details>
 <summary>Windows 11</summary>
 
-	### Shortcuts
+### Shortcuts
 
-		`[Windows] + [A]`: The action center opens.
-		`[Windows] + [E]`: Explorer opens.
-		`[Windows] + [G]`: Enter the gaming menu to record your gameplay.
-		`[Windows] + [H]`: Start voice input.
-		`[Windows] + [I]`: Settings will open.
-		`[Windows] + [N]`: Show notification center and calendar.
-		`[Windows] + [R]`: Call up the "Run" dialog.
-		`[Windows] + [V]`: View clipboard history.
-		`[Windows] + [.]`: Call up the emoji menu.
-		`[Windows] + [+]`: Start Magnifier.
+	`[Windows] + [A]`: The action center opens.
+	`[Windows] + [E]`: Explorer opens.
+	`[Windows] + [G]`: Enter the gaming menu to record your gameplay.
+	`[Windows] + [H]`: Start voice input.
+	`[Windows] + [I]`: Settings will open.
+	`[Windows] + [N]`: Show notification center and calendar.
+	`[Windows] + [R]`: Call up the "Run" dialog.
+	`[Windows] + [V]`: View clipboard history.
+	`[Windows] + [.]`: Call up the emoji menu.
+	`[Windows] + [+]`: Start Magnifier.
+
+	### Some Code
+	  ```js
+	  function logSomething(something) {
+	    console.log('Something', something);
+	  }
+	  ```
 </details>
 
 <details>
