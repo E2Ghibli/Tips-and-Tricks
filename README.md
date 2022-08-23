@@ -4,10 +4,9 @@ All kind of tips and tricks around everything
 
 <details>
 <summary>Windows 11</summary>
-<br>
 
-	<details><summary>Shortcuts</summary>
-	<br>
+	<details>
+	<summary>Shortcuts</summary>
 
 		`[Windows] + [A]`: The action center opens.
 
@@ -36,11 +35,9 @@ All kind of tips and tricks around everything
 
 <details>
 <summary>Sublime Text</summary>
-<br>
 
 	<details>
 	<summary>Shortcuts</summary>
-	<br>
 
 		`[Command] + [D]`: Select a word.
 
@@ -61,7 +58,6 @@ All kind of tips and tricks around everything
 
 	<details>
 	<summary>Settings</summary>
-	<br>
 
 		Spell Checker: `Preferences > Settings – User` and add the following line `"spell_check": true`
 
@@ -75,7 +71,6 @@ All kind of tips and tricks around everything
 
 <details>
 <summary>Websites</summary>
-<br>
 
 	[AlternativeTo](https://alternativeto.net/): Find better alternatives to the products.
 
