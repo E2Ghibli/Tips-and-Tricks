@@ -4,6 +4,7 @@ All kind of tips and tricks around everything
 
 <details><summary>Windows 11</summary>
 	<details><summary>Shortcuts</summary>
+
 		`[Windows] + [A]`: The action center opens.
 
 		`[Windows] + [E]`: Explorer opens.
@@ -23,15 +24,13 @@ All kind of tips and tricks around everything
 		`[Windows] + [.]`: Call up the emoji menu.
 
 		`[Windows] + [+]`: Start Magnifier.
+
 	</details>
 </details>
 
 
-<details>
-<summary>Sublime Text</summary>
-
-	<details>
-	<summary>Shortcuts</summary>
+<details><summary>Sublime Text</summary>
+	<details><summary>Shortcuts</summary>
 
 		`[Command] + [D]`: Select a word.
 
@@ -50,16 +49,13 @@ All kind of tips and tricks around everything
 	</details>
 
 
-	<details>
-	<summary>Settings</summary>
+	<details><summary>Settings</summary>
 
 		Spell Checker: `Preferences > Settings – User` and add the following line `"spell_check": true`
 
 		Auto Save on Focus Lost: `Preferences > Settings – User` and add the following line `"save_on_focus_lost": true`
 
 	</details>
-
-
 </details>
 
 
