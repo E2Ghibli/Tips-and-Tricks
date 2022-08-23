@@ -3,7 +3,7 @@ All kind of tips and tricks around everything
 
 
 <details><summary>Windows 11</summary>
-	<details><summary>Shortcuts</summary><blockquote>
+	<details><summary>Shortcuts</summary>
 
 		`[Windows] + [A]`: The action center opens.
 		`[Windows] + [E]`: Explorer opens.
@@ -15,7 +15,7 @@ All kind of tips and tricks around everything
 		`[Windows] + [V]`: View clipboard history.
 		`[Windows] + [.]`: Call up the emoji menu.
 		`[Windows] + [+]`: Start Magnifier.
-	</blockquote></details>
+	</details>
 </details>
 <details><summary>Sublime Text</summary>
 	<details><summary>Shortcuts</summary>
