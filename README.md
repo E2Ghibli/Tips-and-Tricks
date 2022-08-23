@@ -3,34 +3,6 @@ All kind of tips and tricks around everything
 
 
 <details><summary>Windows 11</summary>
-	<details><summary>Shortcuts</summary>
-		~~~
-		`[Windows] + [A]`: The action center opens.
-		`[Windows] + [E]`: Explorer opens.
-		`[Windows] + [G]`: Enter the gaming menu to record your gameplay.
-		`[Windows] + [H]`: Start voice input.
-		`[Windows] + [I]`: Settings will open.
-		`[Windows] + [N]`: Show notification center and calendar.
-		`[Windows] + [R]`: Call up the "Run" dialog.
-		`[Windows] + [V]`: View clipboard history.
-		`[Windows] + [.]`: Call up the emoji menu.
-		`[Windows] + [+]`: Start Magnifier.
-		~~~
-	</details>
-</details>
-<details><summary>Sublime Text</summary>
-	<details><summary>Shortcuts</summary>
-		`[Command] + [D]`: Select a word.
-		`[Command] + [Shift] + [D]`: Duplicate Current Line.
-		`[Command] + [L]`: Select a line.
-		`[Command] + [Shift] + [L]`: Delete Current Line.
-		`[Command] + [A]`: Select the entire content within the document.
-		`[Command] + [Shift] + [F]`: Cross-File Editing.
-		`[Command] + [Shift] + [P]`: Command Palette.
-	</details>
-	<details><summary>Settings</summary>
-		Spell Checker: `Preferences > Settings – User` and add the following line `"spell_check": true`
-		Au<details><summary>Windows 11</summary>
 	<details><summary>Shortcuts</summary><blockquote>
 		`[Windows] + [A]`: The action center opens.
 		`[Windows] + [E]`: Explorer opens.
