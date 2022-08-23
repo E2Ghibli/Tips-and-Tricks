@@ -27,8 +27,6 @@ All kind of tips and tricks around everything
 
 	</details>
 </details>
-
-
 <details><summary>Sublime Text</summary>
 	<details><summary>Shortcuts</summary>
 
