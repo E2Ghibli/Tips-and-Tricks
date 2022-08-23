@@ -17,7 +17,24 @@ All kind of tips and tricks around everything
 		`[Windows] + [V]`: View clipboard history.
 		`[Windows] + [.]`: Call up the emoji menu.
 		`[Windows] + [+]`: Start Magnifier.
-		
+</details>
+
+
+<details>
+    <summary>Click me</summary>
+
+  ### Heading
+  1. Foo
+  2. Bar
+     * Baz
+     * Qux
+     
+  ### Some Code
+  ```js
+  function logSomething(something) {
+    console.log('Something', something);
+  }
+  ```
 </details>
 
 <details>
