@@ -18,6 +18,7 @@ All kind of tips and tricks around everything
 	</blockquote></details>
 </blockquote></details>
 <details><summary>Sublime Text</summary><blockquote>
+</br>
 	<details><summary>Shortcuts</summary><blockquote>
 		`[Command] + [D]`: Select a word.
 		`[Command] + [Shift] + [D]`: Duplicate Current Line.
