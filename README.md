@@ -6,22 +6,22 @@ All kind of tips and tricks around everything
 	<summary>Windows 11</summary>
 
 	### Shortcuts
-	`[Windows] + [A]`: The action center opens.
-	`[Windows] + [E]`: Explorer opens.
-	`[Windows] + [G]`: Enter the gaming menu to record your gameplay.
-	`[Windows] + [H]`: Start voice input.
-	`[Windows] + [I]`: Settings will open.
-	`[Windows] + [N]`: Show notification center and calendar.
-	`[Windows] + [R]`: Call up the "Run" dialog.
-	`[Windows] + [V]`: View clipboard history.
-	`[Windows] + [.]`: Call up the emoji menu.
-	`[Windows] + [+]`: Start Magnifier.
+		`[Windows] + [A]`: The action center opens.
+		`[Windows] + [E]`: Explorer opens.
+		`[Windows] + [G]`: Enter the gaming menu to record your gameplay.
+		`[Windows] + [H]`: Start voice input.
+		`[Windows] + [I]`: Settings will open.
+		`[Windows] + [N]`: Show notification center and calendar.
+		`[Windows] + [R]`: Call up the "Run" dialog.
+		`[Windows] + [V]`: View clipboard history.
+		`[Windows] + [.]`: Call up the emoji menu.
+		`[Windows] + [+]`: Start Magnifier.
 </details>
 
 <details>
 	<summary>Sublime Text</summary>
 
-		###Shortcuts
+	###Shortcuts
 		`[Command] + [D]`: Select a word.
 		`[Command] + [Shift] + [D]`: Duplicate Current Line.
 		`[Command] + [L]`: Select a line.
@@ -30,7 +30,7 @@ All kind of tips and tricks around everything
 		`[Command] + [Shift] + [F]`: Cross-File Editing.
 		`[Command] + [Shift] + [P]`: Command Palette.
 
-		###Settings</summary><blockquote>
+	###Settings</summary><blockquote>
 		Spell Checker: `Preferences > Settings – User` and add the following line `"spell_check": true`
 		Auto Save on Focus Lost: `Preferences > Settings – User` and add the following line `"save_on_focus_lost": true`
 </details>
