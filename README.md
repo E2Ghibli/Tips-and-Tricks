@@ -4,9 +4,10 @@ All kind of tips and tricks around everything
 
 <details>
 <summary>Windows 11</summary>
+<br>
 
-	<details>
-	<summary>Shortcuts</summary>
+	<details><summary>Shortcuts</summary>
+	<br>
 
 		`[Windows] + [A]`: The action center opens.
 
