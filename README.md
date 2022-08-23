@@ -17,6 +17,7 @@ All kind of tips and tricks around everything
 	`[Windows] + [.]`: Call up the emoji menu.
 	`[Windows] + [+]`: Start Magnifier.
 </details>
+
 <details><summary>Sublime Text</summary><blockquote>
 	<details><summary>Shortcuts</summary><blockquote>
 		`[Command] + [D]`: Select a word.
