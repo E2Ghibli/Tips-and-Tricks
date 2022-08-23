@@ -4,7 +4,7 @@ All kind of tips and tricks around everything
 
 <details><summary>Windows 11</summary>
 	<details><summary>Shortcuts</summary><blockquote>
-	
+
 		`[Windows] + [A]`: The action center opens.
 		`[Windows] + [E]`: Explorer opens.
 		`[Windows] + [G]`: Enter the gaming menu to record your gameplay.
@@ -15,7 +15,6 @@ All kind of tips and tricks around everything
 		`[Windows] + [V]`: View clipboard history.
 		`[Windows] + [.]`: Call up the emoji menu.
 		`[Windows] + [+]`: Start Magnifier.
-
 	</blockquote></details>
 </details>
 <details><summary>Sublime Text</summary>
