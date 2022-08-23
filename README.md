@@ -3,7 +3,7 @@ All kind of tips and tricks around everything
 
 
 <details><summary>Windows 11</summary>
-	<details><summary>Shortcuts</summary>
+	- <details><summary>Shortcuts</summary>
 		- `[Windows] + [A]`: The action center opens.
 		- `[Windows] + [E]`: Explorer opens.
 		- `[Windows] + [G]`: Enter the gaming menu to record your gameplay.
@@ -32,7 +32,7 @@ All kind of tips and tricks around everything
 	</details>
 </details>
 <details><summary>Websites</summary>
-	[AlternativeTo](https://alternativeto.net/) : Find better alternatives to the products.
+	[AlternativeTo](https://alternativeto.net/): Find better alternatives to the products.
 	[opensourcealternative.to](https://www.opensourcealternative.to/): Find open source alternatives.
 	[Trello](https://trello.com/): Project management tool.
 	[Notion](https://www.notion.so/): Note taking and project management tool.
