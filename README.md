@@ -3,8 +3,8 @@ All kind of tips and tricks around everything
 
 
 <details><summary>Windows 11</summary><blockquote>
-</br>
 	<details><summary>Shortcuts</summary><blockquote>
+	
 		`[Windows] + [A]`: The action center opens.
 		`[Windows] + [E]`: Explorer opens.
 		`[Windows] + [G]`: Enter the gaming menu to record your gameplay.
@@ -18,7 +18,6 @@ All kind of tips and tricks around everything
 	</blockquote></details>
 </blockquote></details>
 <details><summary>Sublime Text</summary><blockquote>
-</br>
 	<details><summary>Shortcuts</summary><blockquote>
 		`[Command] + [D]`: Select a word.
 		`[Command] + [Shift] + [D]`: Duplicate Current Line.
