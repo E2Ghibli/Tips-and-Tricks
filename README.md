@@ -2,12 +2,8 @@
 All kind of tips and tricks around everything 
 
 
-<details>
-<summary>Windows 11</summary>
-
-	<details>
-	<summary>Shortcuts</summary>
-
+<details><summary>Windows 11</summary>
+	<details><summary>Shortcuts</summary>
 		`[Windows] + [A]`: The action center opens.
 
 		`[Windows] + [E]`: Explorer opens.
@@ -27,9 +23,7 @@ All kind of tips and tricks around everything
 		`[Windows] + [.]`: Call up the emoji menu.
 
 		`[Windows] + [+]`: Start Magnifier.
-
 	</details>
-
 </details>
 
 
