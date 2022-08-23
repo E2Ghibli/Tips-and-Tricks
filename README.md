@@ -2,7 +2,7 @@
 All kind of tips and tricks around everything 
 
 
-<details><summary>Windows 11</summary><blockquote>
+<details><summary>Windows 11</summary>
 	<details><summary>Shortcuts</summary><blockquote>
 	<!-- empty line -->
 		`[Windows] + [A]`: The action center opens.
@@ -16,7 +16,7 @@ All kind of tips and tricks around everything
 		`[Windows] + [.]`: Call up the emoji menu.
 		`[Windows] + [+]`: Start Magnifier.
 	</blockquote></details>
-</blockquote></details>
+</details>
 <details><summary>Sublime Text</summary><blockquote>
 	<details><summary>Shortcuts</summary><blockquote>
 		`[Command] + [D]`: Select a word.
