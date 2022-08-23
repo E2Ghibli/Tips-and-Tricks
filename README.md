@@ -4,7 +4,7 @@ All kind of tips and tricks around everything
 
 <details><summary>Windows 11</summary><blockquote>
 	<details><summary>Shortcuts</summary><blockquote>
-	
+	<!-- empty line -->
 		`[Windows] + [A]`: The action center opens.
 		`[Windows] + [E]`: Explorer opens.
 		`[Windows] + [G]`: Enter the gaming menu to record your gameplay.
