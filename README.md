@@ -18,6 +18,8 @@ All kind of tips and tricks around everything
 - `[Windows] + [.]`: Call up the emoji menu.
 - `[Windows] + [+]`: Start Magnifier.
 
+- `[Windows] + [STRG] + [SHIFT] + [B]`: Reload graphics driver.
+
 </details>
 
 <details>
