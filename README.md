@@ -2,16 +2,7 @@
 All kind of tips and tricks around everything 
 
 <details>
-<summary>Activation</summary>
-
-### Links
-
-- [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts): A Windows and Office activator.
-
-</details>
-
-<details>
-<summary>Windows 11</summary>
+<summary>Windows 10/11</summary>
 
 ### Shortcuts
 
@@ -27,6 +18,10 @@ All kind of tips and tricks around everything
 - `[Windows] + [+]`: Start Magnifier.
 
 - `[Windows] + [STRG] + [SHIFT] + [B]`: Reload graphics driver.
+  
+### Activator
+  
+- [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts): A Windows and Office activator.
 
 </details>
 
