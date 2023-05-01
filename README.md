@@ -1,6 +1,14 @@
 # Tips-and-Tricks
 All kind of tips and tricks around everything 
 
+<details>
+<summary>Activation</summary>
+
+### Links
+
+- [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts): A Windows and Office activator.
+
+</details>
 
 <details>
 <summary>Windows 11</summary>
