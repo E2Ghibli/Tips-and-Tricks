@@ -66,3 +66,10 @@ All kind of tips and tricks around everything
 - [Resume Maker](https://www.resumemaker.online/): Create a professional resume in just minutes.
 - [WolframAlpha](https://www.wolframalpha.com/): AI for Math, Science and Life questions.
 </details>
+
+<details>
+<summary>AI's</summary>
+
+- [ComfyUI](https://github.com/comfyanonymous/ComfyUI): A powerful and modular stable diffusion GUI and backend.
+- [Midjourney](https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F): Midjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
+</details>
