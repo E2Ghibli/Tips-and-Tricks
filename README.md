@@ -26,6 +26,7 @@ All kind of tips and tricks around everything
 ### Activator
   
 - [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts): A Windows and Office activator.
+- [Winutil](https://github.com/ChrisTitusTech/winutil): This utility is a compilation of Windows tasks.
 
 </details>
 
