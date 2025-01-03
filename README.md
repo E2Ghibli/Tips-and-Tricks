@@ -78,3 +78,35 @@ All kind of tips and tricks around everything
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI): A powerful and modular stable diffusion GUI and backend.
 - [Midjourney](https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F): Midjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
 </details>
+
+<details>
+<summary>Pi-hole</summary>
+
+### DNS Server
+
+- IPV4 Quad9 (unfiltered, no DNSSEC)
+
+### Adlist
+
+01. https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+02. https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-only/hosts
+03. https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
+04. https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
+05. https://v.firebog.net/hosts/static/w3kbl.txt
+06. https://adaway.org/hosts.txt
+07. https://v.firebog.net/hosts/AdguardDNS.txt
+08. https://v.firebog.net/hosts/Admiral.txt
+09. https://v.firebog.net/hosts/Easyprivacy.txt
+11. https://v.firebog.net/hosts/Prigent-Ads.txt
+12. https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
+13. https://v.firebog.net/hosts/Prigent-Malware.txt
+14. http://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
+15. https://pgl.yoyo.org/as/serverlist.php?hostformat=hosts;showintro=0&mimetype=plaintext
+16. https://raw.githubusercontent.com/FadeMind/hosts.extras/refs/heads/master/UncheckyAds/hosts
+17. https://raw.githubusercontent.com/bigdargon/hostsVN/refs/heads/master/hosts
+18. https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AdGuard%20Home%20Compilation%20List/AdGuardHomeCompilationList.txt
+19. https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
+20. https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/regex.list
+21. https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt
+22. https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts
+</details>
