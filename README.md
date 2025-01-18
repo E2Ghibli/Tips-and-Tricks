@@ -113,14 +113,17 @@ All kind of tips and tricks around everything
 ### Install
 
 Hyperpixel4: https://github.com/pimoroni/hyperpixel4
+
 PADD: https://github.com/pi-hole/PADD
 
 ### Raspi Config
+sudo raspi-config
   1. System Options
   2. Boot / Auto Login
   3. B1 and B2
 
 ### Config
+sudo nano /boot/firmware/config.txt
   1. dtparam=i2s=on
   2. dtoverlay=vc4-kms-dpi-hyperpixel4,rotate=270,disable-touch
      dtoverlay=vc4-kms-v3d
