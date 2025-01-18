@@ -109,4 +109,26 @@ All kind of tips and tricks around everything
 20. https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/regex.list
 21. https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt
 22. https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts
+
+### Install
+
+Hyperpixel4: https://github.com/pimoroni/hyperpixel4
+PADD: https://github.com/pi-hole/PADD
+
+### Raspi Config
+  1. System Options
+  2. Boot / Auto Login
+  3. B1 and B2
+
+### Config
+  1. dtparam=i2s=on
+  2. dtoverlay=vc4-kms-dpi-hyperpixel4,rotate=270,disable-touch
+     dtoverlay=vc4-kms-v3d
+
+### Font
+sudo dpkg-reconfigure console-setup
+  1. UTF-8
+  2. Guess optimal character set
+  3. TerminusBold
+  4. 10x20
 </details>
